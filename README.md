@@ -1,3 +1,4 @@
+<img src="https://th.bing.com/th/id/OIP.PTCVvZ8JjtSjTrpLnvJu1wHaEo?pid=ImgDet&rs=1">
 <h1 align="center">Hi 👋, I'm Frimeshani Mihishani Fernando</h1>
 <h3 align="center">Student of software developer from Sri Lanka.</h3>
 
