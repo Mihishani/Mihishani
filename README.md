@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihishani&label=Profile%20views&color=0e75b6&style=flat" alt="mihishani" /> </p>
 
-- 🌱 I’m currently learning **Internet Technologies**
+- 🌱 I’m following **Graduate Diploma In Software Engineering at Institute of Software Engineering(IJSE)**
 
-- 💬 Ask me about **JAVA , HTML**
+- 💬 Ask me about **JAVA , HTML , CSS , JavaScript , Spring Boot , MySQL**
 
 - 📫 How to reach me **frimeshanifernando@gmail.com**
 
